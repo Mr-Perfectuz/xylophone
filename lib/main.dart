@@ -1,5 +1,3 @@
-import 'dart:ui';
-
 import 'package:flutter/material.dart';
 import 'package:audioplayers/audio_cache.dart';
 
@@ -15,7 +13,7 @@ class XylophoneApp extends StatelessWidget {
             child: FlatButton(
               onPressed: () {
                 final player = AudioCache();
-                player.play('note1.wav');
+                player.play('note4.wav');
               },
               child: Text('Click me'),
             ),
