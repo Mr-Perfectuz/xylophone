@@ -26,4 +26,4 @@ We’re going to make a music app that plays Xylophone sounds. For every Beethov
 
 
 
-![](assets/xylophone_flutter.png)
+![](images/xylophone_flutter.png)
